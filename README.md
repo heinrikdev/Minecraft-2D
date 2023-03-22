@@ -1,4 +1,4 @@
-# POO
+# Minecraft 2D
 
 ### Um simples minecraft 2D implementado para materia de Programação Orientada a Objeto
 <img width="832" alt="Captura de ecrã 2023-03-21, às 22 23 52" src="https://user-images.githubusercontent.com/111063166/226781063-7a536b33-d36e-4654-ae68-9db9f8b9cec8.png">
